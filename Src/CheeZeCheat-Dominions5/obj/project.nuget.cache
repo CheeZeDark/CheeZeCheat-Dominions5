@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsiEpDjnvCe0tYTDnsLEir7ttjl0SF7ODqof2Qi4Zv3p+NWdff5tZzqTwUdS7/WaXFQQNLFuZ9S7nw0Zr7B59Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joker\\source\\repos\\CheeZeCheat-Dominions5\\CheeZeCheat-Dominions5\\CheeZeCheat-Dominions5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joker\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.0\\microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.1.2\\microsoft.toolkit.uwp.notifications.7.1.2.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\Joker\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
